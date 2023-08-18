@@ -1,6 +1,5 @@
 # Negotiation_Dialogues
-Collect code and repository of papers related to negotiation conversations.
-收集关于谈判对话相关的论文、code和repository
+Collect papers, CODE and Repository related to negotiating dialogue
 
 ## 📋 Paper
 [Decoupling Strategy and Generation in Negotiation Dialogues. 29 Aug 2018](https://arxiv.org/abs/1808.09637)
