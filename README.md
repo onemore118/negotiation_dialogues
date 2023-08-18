@@ -1,4 +1,5 @@
 # Negotiation_Dialogues
+Collect code and repository of papers related to negotiation conversations.
 收集关于谈判对话相关的论文、code和repository
 
 ## 📋 Paper
