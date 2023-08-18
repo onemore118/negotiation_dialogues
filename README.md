@@ -12,6 +12,9 @@ Collect papers, CODE and Repository related to negotiating dialogue
 ## 💻 Code
 [cocoa](https://github.com/stanfordnlp/cocoa/tree/master)
 
+### Datasets
+[salesforce/DialogStudio](https://github.com/salesforce/DialogStudio.git)
+
 ## 🏛 Repository
 [zjunlp/Prompt4ReasoningPapers](https://github.com/zjunlp/Prompt4ReasoningPapers)
 
