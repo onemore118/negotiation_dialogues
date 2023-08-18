@@ -8,6 +8,8 @@ Collect papers, CODE and Repository related to negotiating dialogue
 
 [Reasoning with Language Model Prompting: A Survey. 7 Aug 2023](https://arxiv.org/abs/2212.09597)
 
+[Are LLMs All You Need for Task-Oriented Dialogue? 3 Aug 2023](https://arxiv.org/abs/2304.06556)
+
 
 ## 💻 Code
 [cocoa](https://github.com/stanfordnlp/cocoa/tree/master)
