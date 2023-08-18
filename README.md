@@ -10,7 +10,7 @@ Collect papers, CODE and Repository related to negotiating dialogue
 
 [Are LLMs All You Need for Task-Oriented Dialogue? 3 Aug 2023](https://arxiv.org/abs/2304.06556)
 
-## 📄 Artical
+## 📄 Article
 [PEFT: Prompt 系列高效调参原理解析](https://mp.weixin.qq.com/s/8FwNpkD5z8l3aSmxp-b1MA?from=industrynews&version=4.1.9.6010&platform=win)
 
 ## 💻 Code
