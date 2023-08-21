@@ -16,6 +16,8 @@ Collect papers, CODE and Repository related to negotiating dialogue
 ## 💻 Code
 [cocoa](https://github.com/stanfordnlp/cocoa/tree/master)
 
+[NeMo-Guardrails](https://github.com/NVIDIA/NeMo-Guardrails.git)
+
 ### Datasets
 [salesforce/DialogStudio](https://github.com/salesforce/DialogStudio.git)
 
