@@ -18,6 +18,8 @@ Collect papers, CODE and Repository related to negotiating dialogue
 
 [NeMo-Guardrails](https://github.com/NVIDIA/NeMo-Guardrails.git)
 
+[finetune openai api](https://github.com/openai/openai-cookbook/blob/main/examples/How_to_finetune_chat_models.ipynb)
+
 ### Datasets
 [salesforce/DialogStudio](https://github.com/salesforce/DialogStudio.git)
 
