@@ -12,6 +12,7 @@ Collect papers, CODE and Repository related to negotiating dialogue
 
 ## 📄 Article
 [PEFT: Prompt 系列高效调参原理解析](https://mp.weixin.qq.com/s/8FwNpkD5z8l3aSmxp-b1MA?from=industrynews&version=4.1.9.6010&platform=win)
+[LLM模型压缩综述：细聊剪枝、知识蒸馏、量化技术](https://mp.weixin.qq.com/s/vySmex9XZZ-F_54nbipMVQ)
 
 ## 💻 Code
 [cocoa](https://github.com/stanfordnlp/cocoa/tree/master)
